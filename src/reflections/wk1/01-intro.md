@@ -1,3 +1,18 @@
+# Why we use GIT
+
+## In your own words, why do we use Git?
+
+*
+
+## What are the benfits of having multiple branhces?
+
+*
+
+## Whats the difference between Git and GitHub?
+
+*
+
+
 # Introduction
 
 > Brief Synopsis with [article link](https://codeworksacademy.com/fs-student-guide/)
