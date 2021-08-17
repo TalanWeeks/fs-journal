@@ -14,6 +14,6 @@ A higher specificity will mean that the rule take priority. Specificity ranges f
 * !important is sketchy to use outside of testing because it becomes the highest specificity out of all the rules being applied to something. This means that even if your css is adding style to something if the in-line style of !important is on it then all of the other rules will be ignored.!important can be a great tool for testing. It can be used to forcefully apply style/ rules to a part of code.
 
 
-# daily challend #1 Kewl website
+# daily challenged #1 Cool website
 
 *https://talanweeks.github.io/resume/
