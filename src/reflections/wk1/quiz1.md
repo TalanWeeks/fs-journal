@@ -60,6 +60,10 @@ list-style-type,
 list-style-img,
 list-style-position,
 
+<ol>
+<ul>
+<dl>
+
 ```
 
 **10.** Define the display `:flex property:`
