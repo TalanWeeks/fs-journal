@@ -2,68 +2,13 @@
 
 ## In your own words, why do we use Git?
 
-*
+* Git is used in the industry for version control and also as a great platform to use for collaboration with other developers. This is because it allows multiple developers to work on the same project without writing conflicting code. It also allows users to go back to old versions of code. Old versions of code can save time with implementing old features or having to revert back because a new feature doesn't work or has major bugs.
 
-## What are the benfits of having multiple branhces?
+## What are the benefits of having multiple branches?
 
-*
+* The main benefits of having multiple branches are being able to have multiple developers writing on the same code and also for testing. Ypu can write multiple versions of the same code at the same time using branching. Eventually you can merge all of these versions together into a final product.
 
 ## Whats the difference between Git and GitHub?
 
-*
+* Github is used as a remote repository. A remote repository acts as a platform where developers can push their local repository based code into a remote one that allows other developers to see the code and edit it. Git as stated above is used mainly for version control and doesn't have the ability to push code to remote repositories.
 
-
-# Introduction
-
-> Brief Synopsis with [article link](https://codeworksacademy.com/fs-student-guide/)
-
-State and answer questions in paragraph format
-
-
----
-
-***Markdown Guide***
-
-# Every file starts with a heading
-
-## Subheadings are searchable
-
-some plain text and a link: [CodeWorks Academy](https://codeworksacademy.com)
-
-a line break uses three hyphens
-
----
-
-
-below is an img 
-
-![codeworks-logo](https://codeworks.blob.core.windows.net/public/assets/img/fs-logo.png)
-
-
-*itallics*, **bold**, ***bold-itallics*** 
-
-Here is a table
-
-|  id  |  name  |  phone         |
-|------|--------|----------------|
-|  10  |  Jim   |  111-222-3333  |
-|  10  |  Bob   |  222-333-4444  |
-|  10  |  Joe   |  333-444-5555  |
-
-
-code blocks
-
-```javascript{3,7}
-function democode(){
-    // NOTE this is a comment
-    let message = 'this line is highlighted'
-    return message + '!'
-}
-
-const executed = democode() // also highlighted
-```
-
-
-<section>
-    <kbd style="color:purple">HTML</kbd> is supported as well
-</section>
