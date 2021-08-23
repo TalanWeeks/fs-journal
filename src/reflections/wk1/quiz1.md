@@ -1,4 +1,4 @@
-# Foundations of Web Development
+# QUIZ Foundations of Web Development
 
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
