@@ -4,7 +4,7 @@
 
 * justify content center centers the content inside of whatever you place it on row or column everything inside will be moved to the center on the y axis. align items move objects in the x axis.
 
-# What does the align self CSS rule do?
+## What does the align self CSS rule do?
 
 * align self aligns one element out of a couple in a row or column to the style you declare. it doesnt affect the other elements.
 
