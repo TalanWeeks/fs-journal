@@ -6,7 +6,7 @@
 
 ## What does the align self CSS rule do?
 
-* align self aligns one element out of a couple in a row or column to the style you declare. it doesnt affect the other elements.
+* align self aligns one element out of a couple in a row or column to the style you declare. it doesn't affect the other elements.
 
 ## When you are building out your HTML page, what is the default display type of your elements?
 
