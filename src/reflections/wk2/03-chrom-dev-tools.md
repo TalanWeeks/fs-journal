@@ -1,3 +1,5 @@
+# CHROME DEV TOOLS
+
 ## What are the main ways to write information to the console? Why/when should you use each style.
 
 *  console.log is how you right to the console. It is important to use console.log for testing code and to see if values are changing correctly. You can put string number and variables into the console.log() Adding strings to the variable that is going to be printed to can help when having multiple things console.logged.
