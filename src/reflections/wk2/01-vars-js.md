@@ -1,4 +1,4 @@
-# Varibles in JS
+# Variables in JS
 
 ## What is Scope ?
 
@@ -6,7 +6,7 @@
 
 ## What is Hoisting ?
 
-* Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution. The code runs 2 times the first is to define things throughout the code so that it can be used the second time around and have values set to it. If the code didn't do this then it wouldnt run funcitons that are called before they are defined
+* Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution. The code runs 2 times the first is to define things throughout the code so that it can be used the second time around and have values set to it. If the code didn't do this then it wouldn't run functions that are called before they are defined
 
 ## In what cases might you use let vs const vs var?
 

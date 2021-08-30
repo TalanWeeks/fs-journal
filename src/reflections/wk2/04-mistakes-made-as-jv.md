@@ -6,7 +6,7 @@
 
 ## How do you find answers when you are stuck?
 
-* When I'm stuck I try to break the problem down to the simplest components. This is usually me looking up a specific array method or how to execute a small objective i can't figure out. I've found looking for problems broadly on the internet can lead you down rabit holes that lead to nothing or a different problem entirely.
+* When I'm stuck I try to break the problem down to the simplest components. This is usually me looking up a specific array method or how to execute a small objective i can't figure out. I've found looking for problems broadly on the internet can lead you down rabbit holes that lead to nothing or a different problem entirely.
 
 ## From the entire article what are your biggest takeaways?
 

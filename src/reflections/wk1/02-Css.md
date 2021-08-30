@@ -2,7 +2,7 @@
 
 ## What is a Pseudo-Class and what are some of the most common ones you think you will use
 
-* a psuedo class is used to set a rule or style of a class at a certain state. ie: hover, link, active. I've already used hover a lot throughout the pre-work in order to add style to buttons on web pages. Active and link im sure i will use much more in the near future but im sure ill use hover, active, and first-child/last-child a ton throughout my coding career.
+* a pseudo class is used to set a rule or style of a class at a certain state. ie: hover, link, active. I've already used hover a lot throughout the pre-work in order to add style to buttons on web pages. Active and link im sure i will use much more in the near future but im sure ill use hover, active, and first-child/last-child a ton throughout my coding career.
 
 ## What is Specificity and how might you use it to your benefit?
 
