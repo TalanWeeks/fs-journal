@@ -11,3 +11,5 @@
 ## In what cases might you use let vs const vs var?
 
 * Var declarations are globally scoped or function scoped while let and const are block scoped. Var variables can be updated and re-declared within its scope. Let variables can be updated but not re-declared.Const variables can neither be updated nor re-declared.
+
+*  https://talanweeks.github.io/js-tests-basics/

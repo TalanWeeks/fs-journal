@@ -11,3 +11,5 @@
 ## From the entire article what are your biggest takeaways?
 
 * My biggest takeaways are that I do have some decent coding habits as is, which is great, but I really need to work on code optimization and encapsulation. I tend to reuse a ton of things and my code is probably way longer than it needs to be. 
+
+* partner programming

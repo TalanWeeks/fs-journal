@@ -16,3 +16,5 @@
 ## What are higher order functions? Can you provide an example?
 
 * When a function accepts another function as a parameter, or returns a function, it is called a higher-order function. ex: Array.prototype.map, Array.prototype.filters
+
+* https://talanweeks.github.io/js-tests-loops-and-arrays/

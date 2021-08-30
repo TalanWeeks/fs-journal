@@ -11,3 +11,5 @@
 ## Outside of writing everything to the console, what is a better way to debug your code?
 
 *  You can add "debugger" to you code. This will stop the code at whatever line you have written it on. This is great to watching the math break down inside of a function or for seeing if your conditionals are working correctly or not.
+
+*  https://talanweeks.github.io/rock-paper-scissor/

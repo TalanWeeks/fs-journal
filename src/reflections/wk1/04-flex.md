@@ -11,3 +11,5 @@
 ## When you are building out your HTML page, what is the default display type of your elements?
 
 * The default display type of most elements is block. this means its treated like a block element by default not d-flex.
+
+* partner programming

@@ -19,3 +19,5 @@ http://www.zondicons.com/
 ## How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
 
 A well designed page can have a massive impact on a company. It can make the difference between being successful or not. Having a good online presence can make a company of 3 people look like a company of hundreds. It can take a start up company and make them look like they've been around for ages. A bad designed page or even a poorly designed feature can mean massive loss in company revenue. When visiting a site if it looks old or badly maintained people will be worried about the quality of the company and their own online/computer security.
+
+* https://talanweeks.github.io/resume/
