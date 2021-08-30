@@ -4,7 +4,7 @@
 
 * 1. A Function Declaration defines a named function. To create a function declaration you use the function keyword followed by the name of the function. ex: "function name(parameters) {statements}"
 
-* 2. A Function Expressions defines a named or anonymous function. An anonymous function is a function that has no name. Function Expressions are not hoisted, and therefore cannot be used before they are defined. ex: "let name = function(parameters) {satements}"
+* 2. A Function Expressions defines a named or anonymous function. An anonymous function is a function that has no name. Function Expressions are not hoisted, and therefore cannot be used before they are defined. ex: "let name = function(parameters) {statements}"
 
 * 3. An Arrow Function Expression is a shorter syntax for writing function expressions. Arrow functions do not create their own this value. ex: "let name = (parameters) => {statements}"
 
