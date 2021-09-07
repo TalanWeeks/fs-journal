@@ -1,0 +1,2 @@
+# Weeks Reflection
+* This week was wild to say the least. Felt so lost on Tuesday I thought I was a gonner. Come Thursday I felt better. I wanna say I understand MVC, but I still feel pretty new at it. I'm sure in a week or two it will be normal and fine just like css and html were. So far the project seems semi easy, but I know there will be hard points. The dataID stuff scares me and I dont quite understand it but again I'm sure it'll come in time.
