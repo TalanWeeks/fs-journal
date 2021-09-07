@@ -11,3 +11,6 @@
 ## How do we create private variables in a ES6 Class? Why would you do this?
 
 * Private variables are declared using closures and underscore prefix. It makes manipulating the variable very hard to do. It also makes accessing it as a user almost impossible. This would be important for variables/ data such as passwords or socials. Only accessible by the object that owns it/ current class. not global.
+
+
+https://talanweeks.github.io/fall21-gregslist-1/

@@ -11,3 +11,5 @@
 ## What are some of the benefits of the proxy object that we are using in our structure for applications?
 
 * The major benefits for proxy objects are the ability to have better control over data. They can be used to make sure objects and data are being used and accessed correctly and by the correct people.
+
+https://talanweeks.github.io/fall21-gregslist-1/

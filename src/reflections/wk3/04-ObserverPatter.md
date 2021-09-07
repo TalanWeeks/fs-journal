@@ -11,3 +11,5 @@
 ## Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.
 
 * In the bcw-template the ProxyState is observed a ton to see if certain data peices in it  change. For instance, if a certain array in the ProxyState like Tasks:[] is updated you want the screen to update the html to represent whatever change has occured. This is done by watching the state with a certain key passed in. In the example above the key that was passed in would be the Tasks array.
+
+(group project)
