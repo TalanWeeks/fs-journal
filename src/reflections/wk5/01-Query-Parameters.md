@@ -11,3 +11,5 @@
 ## When do you think Query parameters would be helpful when writing your server?
 
 *  They could be super helpful for user input being put into the server of the website. 
+
+afternoon link - https://talanweeks.github.io/burger-postman/
