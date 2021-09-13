@@ -13,3 +13,5 @@
 ## What is the difference between .then() and .catch()?
 
 * then() is only for resolved promises it doesn't read it if the promise failed. That is where catch() comes in. Catch() is used to do an action if the promise fails.
+
+* https://talanweeks.github.io/fall21-gregslist-1/

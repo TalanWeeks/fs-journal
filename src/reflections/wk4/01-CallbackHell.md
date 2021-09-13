@@ -13,3 +13,6 @@
 *  1 keep your code shallow- keeping functions as short and independent as possible. "one function for one job" if possible...
 *  2 Modularize- This is like keeping functions doing one task but on the other level of whole files. These files should do specific things and handle specific data.
 *  3 Handle every single error- Try to predict errors happening almost anywhere. use try and catch to try and function then catch whatever error is thrown so you can present it to the screen.
+
+
+# no school no challenge...execpt life
