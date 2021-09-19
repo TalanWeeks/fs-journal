@@ -12,4 +12,4 @@
 
 *  When dealing with many to many relationships it is important think about how you want to handle our data if we want to 1 way embed it 2 way embed it or use linking.
 
-daily challenge- <link>
+daily challenge- https://talanweeks.github.io/gregslist-auth0/
