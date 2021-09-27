@@ -12,4 +12,4 @@
 
 * CBA can often lead to bloated and polluted views. When using many components, there is the possibility that readability might actually become degraded.
 
-afternoon link- 
+afternoon link- https://talanweeks.github.io/fall21-slappy-vue/
