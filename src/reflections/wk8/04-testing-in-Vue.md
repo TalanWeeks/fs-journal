@@ -11,3 +11,5 @@
 ## What testing method do you think is the least useful? Why?
 
 * Unit testing seems the least useful in my opinion because if you are component testing then you are simply testing multiple units at the same time. Writing out a chunk of code and then testing the componenet makes more sense than testing every little thing as you write it. 
+
+WORKED ON CAPSTONE

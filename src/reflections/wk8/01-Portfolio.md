@@ -11,3 +11,5 @@
 ## What projects do you have that you would include in your Portfolio? Why?
 
 * You should only put the projects you care about and the ones that are well written. You wouldn't want to show off terrible code that would just make you look bad. You also wouldn't want to put super simple apps on the portfolio as well.
+
+WORKED ON SPRINTER CHECKPOINT

@@ -11,3 +11,6 @@
 ## What is the unattainable triangle? What are the tradeoffs of each side?
 
 * The unattainable triangle is a reference to something that symbolizes how you cannot attain a "perfect" dynamic of speed and quality. The three sides of the triangle are: Good service Cheap won't be Fast, Good service Fast won't be Cheap, and Fast service Cheap won't be Good.
+
+
+WORKED ON CAPSTONE

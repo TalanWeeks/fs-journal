@@ -11,3 +11,5 @@
 ## What are some potential drawbacks of Testing in software development?
 
 * It can take a ton of time to test the app properly. This could potentially cause issues if this time was not propperly slotted out in the begginging of the sprint.
+
+WORKED ON CAPSTONE
