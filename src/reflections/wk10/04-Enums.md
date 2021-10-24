@@ -11,3 +11,7 @@
 ## How have you used Enums in your afternoon lab projects this far?(if you have not yet, give an example of how you could)
 
 * We weren't even taught about enums let alone used them in our afternoon challenges..... It would have been nice to have been explained how they work or even know about them until I read the article.... wish i had two more hands...
+
+https://talanweeks.github.io/KnightsandCastles/
+
+continued working on knights and castles. real slow progression this week with C#. Way slower in general typing out for now.

@@ -16,3 +16,7 @@
 ## What is the difference between the following statements: DELETE FROM table_name; DROP TABLE table_name;
 
 * The first statement would delete something out of the table, but the table as a whole would still exist, where as the second statement would delete the entire table from you db. 
+
+https://talanweeks.github.io/KnightsandCastles/
+
+restarted knights relations entirely to do it better and add more data and populates

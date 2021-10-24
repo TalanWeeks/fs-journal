@@ -11,3 +11,7 @@
 ## How would you retrieve an item from a list? What method could you use?
 
 * To retrieve something from a list you would have to call that specific list and target a specific index value.
+
+https://talanweeks.github.io/knightRelations/
+
+continued progressing on my knights relations
