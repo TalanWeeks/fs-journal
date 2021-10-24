@@ -12,4 +12,4 @@ There seems to be a ton of different data types compared to js this makes since 
 
 ## In your own words how do Reference types get stored in memory? How does this differ from Value types?
 
-* 
+* A reference acts as a pointer that points to where the actual value of the data is held.
