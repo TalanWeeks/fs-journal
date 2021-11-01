@@ -34,3 +34,5 @@ CREATE TABLE doctors (
 )
 
 * "SELECT * FROM patients WHERE p.doctorId = @doctorId;"
+
+https://talanweeks.github.io/JobsnContractors/

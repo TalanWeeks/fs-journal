@@ -11,3 +11,5 @@
 ## How does accessibility affect inheritance?
 
 * Accessibility allows you to hide or show specifc data of the class. This allows you to inherit all the data from the parent class but only show the data you would like to show.
+
+https://talanweeks.github.io/JobsnContractors/

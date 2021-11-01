@@ -12,3 +12,5 @@
 ## How can we detect and sanitize SQL injection attacks?
 
 *  Both network- and host-based, can be tuned to detect SQL injection attacks. Network-based IDSes can monitor all connections to your database server, and flag suspicious activity. A host-based IDS can monitor web server logs and alert when something strange happens.
+
+https://talanweeks.github.io/vacaybackend/
